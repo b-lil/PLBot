@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/5b6769fa-9527-4f4b-b808-c52ed992a969/resourceGroups/rg-ai-dev-it-001/providers/Microsoft.Web/sites/AzureAIBotv2",
+    "appService.deploySubpath": "."
+}
